@@ -1,9 +1,9 @@
 # Short Course: How Diffusion Models Work
 
 ### Acknowledgments
-The Python code is from the short course "How Diffusion Models Work" on the DeepLearning.AI platform, available for free.  
+The Python code is from the short course "How Diffusion Models Work" on the DeepLearning.AI platform. The course content is available for free, while the certificate and graded assessments require a paid subscription.  
 For more details, visit:  
-<https://www.deeplearning.ai/short-courses/how-diffusion-models-work/>
+<https://learn.deeplearning.ai/courses/how-diffusion-models-work/information/>
 
 ### Description
 This repository contains only Python code from my practice after each lesson.  
